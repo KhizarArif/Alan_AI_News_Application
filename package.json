@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@alan-ai/alan-sdk-web": "^1.8.53",
+    "classnames": "^2.3.2",
+    "numbers": "^0.7.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "to": "^0.2.9",
+    "words": "^0.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
